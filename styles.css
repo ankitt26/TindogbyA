@@ -148,8 +148,11 @@ h3{font-size: 1.9rem;
   .pricing-head{
 padding-bottom: 2%;
 font-size: 40px;
-color: #7b98a9
+color: #657c9d;
   }
+
+  .membership{color:#ffff;}
+
 
   #cta{
     padding: 2% 15%;
@@ -171,6 +174,10 @@ color: #7b98a9
     padding: 1% 0% 0.1% ;
     
   }
+#insta{
+    color:#fff;
+  }
+   
    
 
   
