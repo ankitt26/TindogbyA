@@ -55,22 +55,7 @@ color: #fff;
 
 
 
-@media (max-width: 992px) {
-.coll{ text-align: center;}
 
-  .iphone {    width: 39%;
-    
-    transform: rotate(0deg);
-    margin-top: 3%;
-    position: static;
-    padding-top: 5%;
-    /* margin-left: 31%; */
-    
-   
-
-   }
-  
-}
 
 
 
@@ -178,6 +163,32 @@ color: #657c9d;
     color:#fff;
   margin:0.2rem;
   }
+
+@media (max-width: 992px) {
+  .coll {
+    text-align: center;
+  }
+  .iphone {
+    width: 39%;
+    transform: rotate(0deg);
+    margin-top: 3%;
+    position: static;
+    padding-top: 5%;
+    margin-left: -1%;
+  }
+
+  .container-fluid {
+    padding: 3% 2% 9%;
+  }
+  #features {
+    padding: 9% 15% 9%;}
+
+    #testimonials {
+      
+      padding: 7% 2% ;
+    }
+
+}
    
    
 
