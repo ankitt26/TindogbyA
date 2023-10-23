@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [ Tindog ] <a name="about-project"></a>
 
-**[ Tindog ]** is a Html and Css based project
+**[ Tindog ]** A software application that similar to Tinder, for Connecting with Fellow Dog Lovers - Where Canine Enthusiasts Meet, Match, and Mingle!
 
 ## 🛠 Built With <a name="built-with"></a>
 
